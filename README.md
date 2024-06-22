@@ -1,4 +1,4 @@
-- My name is Thiago.
+### My name is Thiago.
 - Currently studing.
 - I understand English reasonably well (maybe more languages ​​in the future)
 - ...
