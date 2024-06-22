@@ -1,5 +1,5 @@
 ### My name is Thiago.
-- Currently studing.
+- Currently studying.
 - I understand English reasonably well (maybe more languages ​​in the future).
 - ...
   
