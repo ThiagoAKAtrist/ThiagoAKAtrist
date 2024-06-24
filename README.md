@@ -5,4 +5,4 @@
   
 - And I like F1 (McLaren >>> all).
   - Soon... clips of my hotlaps.
-<video src='https://www.youtube.com/watch?v=9AxsQLvCNwU' width=180/>
+
