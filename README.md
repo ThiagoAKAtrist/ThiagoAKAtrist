@@ -1,4 +1,4 @@
-  ### Thiago
+### Thiago, it's me.
 - Currently studying.
 - I understand English reasonably well (maybe more languages ​​in the future).
 - ...
