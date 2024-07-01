@@ -1,6 +1,5 @@
 ### Thiago, it's me.
 - Currently studying.
-- I understand English reasonably well (maybe more languages ​​in the future).
 - ...
   
 - And I like F1 (McLaren >>> all).
