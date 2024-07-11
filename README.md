@@ -1,5 +1,5 @@
 <div align="center">
-  <center><h1>👋 Hello! Welcome to my profile</h1></center>
+  <center><h2>👋 Hello! Welcome to my profile</h2></center>
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
- <h2><i>My name is Thiago.</i></h2>
+ <h1><i>My name is Thiago.</i></h1>
 </div>
 
 <p align="center">
