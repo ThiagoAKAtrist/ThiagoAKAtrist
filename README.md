@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=2FF744&background=AEFF9600&center=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=%22A+person+who+thinks+all+the+time;has+nothing+to+think+about+except+thoughts.%22;Alan+Watts" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=2FF744&background=AEFF9600&center=true&multiline=true&random=false&width=600&height=80&lines=%22A+person+who+thinks+all+the+time;has+nothing+to+think+about+except+thoughts.%22;Alan+Watts" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
