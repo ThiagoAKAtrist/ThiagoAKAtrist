@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F728&center=true&multiline=true&random=false&width=600&height=80&lines=%22A+person+who+thinks+all+the+time+;has+nothing+to+think+about+except+thougts.%22;Alan+Watts" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=2FF744&background=AEFF9600&center=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=%22A+person+who+thinks+all+the+time;has+nothing+to+think+about+except+thoughts.%22;Alan+Watts" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<b>&#x2022; 💻Currently studying:</b>
+<b>&#x2022; 💻 Currently studying:</b>
 </p>
 <p align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <b>&#x2022; 💡Yet to start learning:</b>
+  <b>&#x2022; 💡 Yet to start learning:</b>
 </p>
 <p align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<b>&#x2022;📮My socials:</b>
+<b>&#x2022;📮 My socials:</b>
 </p>
 <p align="center">
 <a href="https://www.youtube.com/@tuiaguinAKAtrist" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
