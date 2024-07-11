@@ -11,14 +11,14 @@
 </div>
 
 <p align="center">
-💻Currently studying:
+<b>&#x2022; 💻Currently studying:</b>
 </p>
 <p align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
 <p align="center">
-📮My socials:
+<b>&#x2022;📮My socials:</b>
 </p>
 <p align="center">
 <a href="https://www.youtube.com/@tuiaguinAKAtrist" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
