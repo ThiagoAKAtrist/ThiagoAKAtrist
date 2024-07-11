@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <b>&#x2022; 💡 Yet to start learning:</b>
+  <b>&#x2022; 💡 Yet to start:</b>
 </p>
 <p align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
