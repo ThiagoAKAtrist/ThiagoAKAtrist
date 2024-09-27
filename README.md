@@ -36,13 +36,6 @@
 <a href="https://www.youtube.com/@tuiaguinAKAtrist" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/212higp3nq23xbgtzlmofv2yy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </p>
-
-<p align="center">
-  <b>Thanks for your visit!</b>
-</p>
-<p align="center">
-  <img src="https://media1.tenor.com/m/bfLfPdo2lHkAAAAd/cat-normal.gif" width="200" height="200"/>
-</p>
           
           
   
